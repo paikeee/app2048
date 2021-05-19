@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="app2048:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c635ba8a-6799-494b-b107-82f682795467" name="Default Changelist" comment="1ver" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app2048" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app2048" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app2048" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1scFav7gfsrO3XNmX3YmpItYLAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42413792" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serzh\IdeaProjects\app2048\src\main\resources" />
+      <recent name="C:\Users\serzh\IdeaProjects\app2048\src\main\java\myApp\fxml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.app2048 [run]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.app.Main" />
+      <module name="app2048.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app2048 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.app2048 [run]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c635ba8a-6799-494b-b107-82f682795467" name="Default Changelist" comment="" />
+      <created>1621164038594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621164038594</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1ver">
+      <created>1621436698424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621436698424</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1ver">
+      <created>1621463012250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621463012250</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1ver">
+      <created>1621466100703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621466100703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1ver" />
+    <option name="LAST_COMMIT_MESSAGE" value="1ver" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="39" width="816" height="729" key="#Intentions" timestamp="1621284445947">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="39" width="816" height="729" key="#Intentions/0.0.1366.768@0.0.1366.768" timestamp="1621284445947" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1621165423305">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1621165423305" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621361229489">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1621361229489" />
+    <state x="488" y="90" width="791" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1621287143407">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="90" width="791" height="568" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1621287143407" />
+    <state x="413" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1621437930717">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1621437930717" />
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621183290072">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1621183290072" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1621467674924">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1621467674924" />
+    <state width="1323" height="97" key="GridCell.Tab.0.bottom" timestamp="1621467738382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1621467738382" />
+    <state width="1323" height="97" key="GridCell.Tab.0.center" timestamp="1621467738382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1621467738382" />
+    <state width="1323" height="97" key="GridCell.Tab.0.left" timestamp="1621467738382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1621467738382" />
+    <state width="1323" height="97" key="GridCell.Tab.0.right" timestamp="1621467738382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1621467738382" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1621438443436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1621438443436" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1621438443436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1621438443436" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1621438443436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1621438443436" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1621438443436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1621438443436" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1621438427944">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1621438427944" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1621466105437">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1621466105437" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1621367279248">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1621367279248" />
+  </component>
+</project>
